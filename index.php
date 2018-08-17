@@ -12,4 +12,5 @@ require_once('bd.php');
 use CRUD\Controllers;
 use CRUD\Others\Route;
 
-echo Route::start();
+echo "Hello";
+//echo Route::start();
